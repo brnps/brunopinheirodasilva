@@ -1,0 +1,5 @@
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\bin\Debug\Domain.dll
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\bin\Debug\Domain.pdb
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\obj\Debug\Domain.dll
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\obj\Debug\Domain.pdb
