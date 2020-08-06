@@ -33,6 +33,6 @@
 
 <h2>Ferramentas utilizadas: </h2>
 
-- Plataforma .NET Framework
-- ASP.NET MVC
+- Plataforma .NET Framework (C#)
+- ASP.NET MVC (C#)
 - MSSQL Server
