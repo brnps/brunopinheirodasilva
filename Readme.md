@@ -31,7 +31,7 @@
         <br>◦ DELETE marca/{id} - Excluir uma marca 
 
 
-<b>Ferramentas utilizadas: </b>
+<h2>Ferramentas utilizadas: </h2>
 
 - Plataforma .NET Framework
 - ASP.NET MVC
