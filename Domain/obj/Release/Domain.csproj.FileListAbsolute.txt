@@ -1,0 +1,6 @@
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\bin\Release\Domain.dll
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\bin\Release\Domain.pdb
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\obj\Release\Domain.csprojAssemblyReference.cache
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\obj\Release\Domain.dll
+D:\Dev\C#\BrunoPinheiroDaSilva\Domain\obj\Release\Domain.pdb

@@ -69,3 +69,7 @@ D:\Dev\C#\BrunoPinheiroDaSilva\BrunoPinheiroDaSilva\bin\Domain.dll
 D:\Dev\C#\BrunoPinheiroDaSilva\BrunoPinheiroDaSilva\bin\Repository.dll
 D:\Dev\C#\BrunoPinheiroDaSilva\BrunoPinheiroDaSilva\bin\Domain.pdb
 D:\Dev\C#\BrunoPinheiroDaSilva\BrunoPinheiroDaSilva\bin\Repository.pdb
+D:\Dev\C#\BrunoPinheiroDaSilva\BrunoPinheiroDaSilva\bin\EntityFramework.dll
+D:\Dev\C#\BrunoPinheiroDaSilva\BrunoPinheiroDaSilva\bin\EntityFramework.SqlServer.dll
+D:\Dev\C#\BrunoPinheiroDaSilva\BrunoPinheiroDaSilva\bin\EntityFramework.xml
+D:\Dev\C#\BrunoPinheiroDaSilva\BrunoPinheiroDaSilva\bin\EntityFramework.SqlServer.xml

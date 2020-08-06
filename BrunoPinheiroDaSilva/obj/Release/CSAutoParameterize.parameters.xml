@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Dev-Web.config Connection String" description="Dev Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:dbmarca.database.windows.net,1433;Initial Catalog=DBMarca;User Id=brunops@dbmarca;Password=Wp3sgtx4" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Dev\\C\#\\BrunoPinheiroDaSilva\\BrunoPinheiroDaSilva\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Dev']/@connectionString" />
+  </parameter>
+</parameters>

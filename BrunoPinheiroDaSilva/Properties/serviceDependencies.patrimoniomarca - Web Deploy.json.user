@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-08-05T21:31:56.0718271Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "PatrimonioMarca"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "c95253ff-3ec7-43a8-9c0c-f430da2421a7"
+    }
+  }
+}

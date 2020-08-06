@@ -1,0 +1,9 @@
+D:\Dev\C#\BrunoPinheiroDaSilva\Repository\bin\Release\Repository.dll
+D:\Dev\C#\BrunoPinheiroDaSilva\Repository\bin\Release\Repository.pdb
+D:\Dev\C#\BrunoPinheiroDaSilva\Repository\bin\Release\Domain.dll
+D:\Dev\C#\BrunoPinheiroDaSilva\Repository\bin\Release\Domain.pdb
+D:\Dev\C#\BrunoPinheiroDaSilva\Repository\obj\Release\Repository.csprojAssemblyReference.cache
+D:\Dev\C#\BrunoPinheiroDaSilva\Repository\obj\Release\Repository.csproj.CoreCompileInputs.cache
+D:\Dev\C#\BrunoPinheiroDaSilva\Repository\obj\Release\Repository.csproj.CopyComplete
+D:\Dev\C#\BrunoPinheiroDaSilva\Repository\obj\Release\Repository.dll
+D:\Dev\C#\BrunoPinheiroDaSilva\Repository\obj\Release\Repository.pdb
