@@ -1,4 +1,4 @@
-# Projeto API
+# Projeto API Patrimonio/Marca
 
 <br>API para gerenciamento de patrimônios e marcas.
 <br>Sem utilização de frameworks.
