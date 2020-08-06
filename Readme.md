@@ -8,7 +8,7 @@ Sem utilização de frameworks.
 <br>1 - Executar os arquivos de criação de tabela <b>(Create.sql)</b> e inserir dados iniciais <b>(Insert.sql)</b></br>
 <br>2 - rodar o projeto a partir do arquivo <b>BrunoPinheiroDaSilva.sln</b>.</br>
 
-<b> Patrimonio </b>
+<h2> Patrimonio </h2>
 Link: https://patrimoniomarca.azurewebsites.net/api/patrimonio
 Endpoints:
         ◦ GET patrimonios - Obter todos os patrimônios 
@@ -17,7 +17,7 @@ Endpoints:
         ◦ PUT patrimonios/{id} - Alterar os dados de um patrimônio 
         ◦ DELETE patrimonios/{id} - Excluir um patrimônio 
 
-<b> Marca </b>
+<h2> Marca </h2>
 Link: https://patrimoniomarca.azurewebsites.net/api/marca
 Link para obter patrimonios de uma marca: https://patrimoniomarca.azurewebsites.net/api/marca/<b>{ID da marca}</b>/patrimonios
 
