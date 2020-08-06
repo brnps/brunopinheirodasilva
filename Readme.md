@@ -1,7 +1,7 @@
 # Projeto API
 
-API para gerenciamento de patrimônios e marcas.
-Sem utilização de frameworks.
+<br>API para gerenciamento de patrimônios e marcas.
+<br>Sem utilização de frameworks.
 
 <h2>Instruções:</h2>
 
